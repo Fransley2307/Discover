@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/Fransley2307/Discover)
+- [Acesse o projeto finalizado, online](https://fransley2307.github.io/Discover/)
 
 ## :memo: Licença
 
